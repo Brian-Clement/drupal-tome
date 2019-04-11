@@ -1,0 +1,115 @@
+{
+    "uuid": [
+        {
+            "value": "51746929-b29c-4371-aa4b-319d6ddf21b0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "0db2e534-a2a1-455d-ac74-8949e19e3691"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-11T17:10:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "986aa05a-ede7-4a05-a859-53f17a0c83f1"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Example Article"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "986aa05a-ede7-4a05-a859-53f17a0c83f1"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-11T17:09:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-11T17:10:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>This is an example article.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1555002640,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Portland, ME",
+            "title": "",
+            "width": 6001,
+            "height": 4006,
+            "target_type": "file",
+            "target_uuid": "0cd65d39-e5c3-4d90-a981-d175a4af95c7"
+        }
+    ],
+    "field_tags": []
+}
