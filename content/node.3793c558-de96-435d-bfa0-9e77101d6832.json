@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "3793c558-de96-435d-bfa0-9e77101d6832"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "3f70c6dd-b43d-4fc5-8215-3be7187d222b"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-11T17:36:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "986aa05a-ede7-4a05-a859-53f17a0c83f1"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Example Basic Page"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "986aa05a-ede7-4a05-a859-53f17a0c83f1"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-11T17:36:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-11T17:36:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>This is a basic page.&nbsp; Let's add some more text here.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}
