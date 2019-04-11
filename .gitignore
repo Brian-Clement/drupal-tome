@@ -25,3 +25,4 @@
 
 # Ignore Tome static export directory
 /html
+/gh-pages
