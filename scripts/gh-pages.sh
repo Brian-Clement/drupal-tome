@@ -14,5 +14,5 @@ cp -r html/* gh-pages/
 # cp CNAME gh-pages/CNAME
 cd gh-pages
 git add .
-git commit -m 'Updating gh-pages site'
+git -c commit.gpgsign=false commit -m 'Updating gh-pages site'
 git push -u origin master
