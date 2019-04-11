@@ -48,6 +48,7 @@
         "files": ["load.environment.php"]
     },
     "scripts": {
+        "gh-pages": "./scripts/gh-pages.sh",
         "pre-install-cmd": [
             "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
         ],
