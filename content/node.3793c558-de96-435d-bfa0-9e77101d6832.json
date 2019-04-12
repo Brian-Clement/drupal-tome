@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "",
+            "alias": null,
             "pid": null,
             "langcode": "en"
         }
