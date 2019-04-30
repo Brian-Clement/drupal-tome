@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "e0cd5b7d-e395-4a90-b601-ff37193c786e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "0db2e534-a2a1-455d-ac74-8949e19e3691"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-30T18:58:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "986aa05a-ede7-4a05-a859-53f17a0c83f1"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "DrupalCon 2019"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "986aa05a-ede7-4a05-a859-53f17a0c83f1"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-30T18:57:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-30T18:58:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>It was very rainy.&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [],
+    "field_tags": []
+}
