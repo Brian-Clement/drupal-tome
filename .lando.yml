@@ -2,3 +2,10 @@ name: drupal-tome
 recipe: drupal8
 config:
   webroot: web
+services:
+  appserver:
+    # Make sure directories are writable and add settings files.
+    run_as_root:
+      - composer install
+      - chmod 0775 /app/web/sites/default
+      - cp --force /app/config/settings.lando.php /app/web/sites/default/settings.php
